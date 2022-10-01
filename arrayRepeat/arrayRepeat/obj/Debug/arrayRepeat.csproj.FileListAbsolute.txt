@@ -1,0 +1,8 @@
+C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\bin\Debug\arrayRepeat.exe.config
+C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\bin\Debug\arrayRepeat.exe
+C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\bin\Debug\arrayRepeat.pdb
+C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.exe
+C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.pdb
