@@ -6,3 +6,11 @@ C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.cspro
 C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.csproj.CoreCompileInputs.cache
 C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.exe
 C:\Users\Xiaomi\source\repos\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.pdb
+D:\Git\arrayRepeat\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.csproj.AssemblyReference.cache
+D:\Git\arrayRepeat\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.csproj.SuggestedBindingRedirects.cache
+D:\Git\arrayRepeat\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.csproj.CoreCompileInputs.cache
+D:\Git\arrayRepeat\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.exe
+D:\Git\arrayRepeat\arrayRepeat\arrayRepeat\obj\Debug\arrayRepeat.pdb
+D:\Git\arrayRepeat\arrayRepeat\arrayRepeat\bin\Debug\arrayRepeat.exe.config
+D:\Git\arrayRepeat\arrayRepeat\arrayRepeat\bin\Debug\arrayRepeat.exe
+D:\Git\arrayRepeat\arrayRepeat\arrayRepeat\bin\Debug\arrayRepeat.pdb

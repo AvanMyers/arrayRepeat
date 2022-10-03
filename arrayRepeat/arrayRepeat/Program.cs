@@ -15,35 +15,38 @@ namespace arrayRepeat
             int rememberedNumber = 0;
             int amountOfRepet = 0;
             int rememberedRepet = 0;
+            int minRandom = 0;
+            int maxRandom = 10;
 
             Console.Write("[ ");
+
             for (int i = 0; i < array.Length; i++)
             {
-                array[i] = random.Next(0,10);
+                array[i] = random.Next(minRandom, maxRandom);
                 Console.Write($"{array[i]} ");
             }
+
             Console.Write(" ]");
 
-            for(int i = 0; i < array.Length; i++)
+            for (int i = 1; i < array.Length; i++)
             {
-                amountOfRepet = 0;
-                for (int j = i; j < array.Length; j++)
+                if (array[i] == array[i - 1])
                 {
-                    if (array[j] == array[i])
-                    {
-                        amountOfRepet++;
-                    } 
-                    else
-                    {
-                        break;
-                    }
-                    if (amountOfRepet > rememberedRepet)
-                    {
-                        rememberedRepet = amountOfRepet;
-                        rememberedNumber = array[j];
-                    }
+                    amountOfRepet++;
                 }
+                else
+                {
+                    amountOfRepet = 1;
+                }
+
+                if (amountOfRepet > rememberedRepet)
+                {
+                    rememberedNumber = array[i];
+                    rememberedRepet = amountOfRepet;
+                }
+
             }
+
             Console.WriteLine($" Число {rememberedNumber} повторяется {rememberedRepet} раза");
             Console.ReadKey();
         }
